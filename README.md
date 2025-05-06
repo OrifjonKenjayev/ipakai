@@ -28,8 +28,8 @@ This project is a voice assistant built on Flask that communicates with the user
 ## 📦 Project Setup
 
 ```bash
-git clone https://github.com/yourusername/uzbek-bank-voice-assistant.git
-cd uzbek-bank-voice-assistant
+git clone https://github.com/OrifjonKenjayev/ipakai.git
+cd ipakai
 python -m venv venv
 source venv/bin/activate # Windows: venv\Scripts\activate
 pip install -r requirements.txt
