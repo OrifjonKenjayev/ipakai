@@ -1,6 +1,6 @@
 # ipakai
 
-# 🏦 Voice Assistant in Uzbek language for risk analysis and cosumer support
+# 🏦 Voice Assistant in Uzbek language for risk analysis and consumer support
 
 This project is a voice assistant built on Flask that communicates with the user in Uzbek, converts voice requests to text and vice versa, converts text to voice. The user can also send a request for scoring credit limit.
 
